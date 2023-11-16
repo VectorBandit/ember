@@ -1,0 +1,8 @@
+{
+  "name": "ember",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github-as-vig:vignitres/ember.git",
+  "author": "Vig <exspesly@gmail.com>",
+  "license": "MIT"
+}
